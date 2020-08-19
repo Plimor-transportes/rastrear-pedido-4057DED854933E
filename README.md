@@ -26,3 +26,8 @@ Data /Hora Ocorrência: 18/08/2020 09:18:10
 Status: Em transferência entre CDs da transportadora -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 19/08/2020 15:09:11
+
+Status: Aguardando a confirmação -
+
+-------------------------------------------------------------
