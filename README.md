@@ -31,3 +31,8 @@ Data /Hora Ocorrência: 19/08/2020 15:09:11
 Status: Aguardando a confirmação -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 20/08/2020 10:45:06
+
+Status: Sua encomenda permanece retida aguardando a confirmação, caso não aja a confirmação dentro de 5 (cinco) dias, será devolvido ao remetente -
+
+-------------------------------------------------------------
