@@ -46,3 +46,8 @@ Data /Hora Ocorrência: 04/09/2020 09:53:27
 Status: Separado para o roteiro de entrega -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 08/09/2020 08:46:17
+
+Status: Mercadoria em rota de entrega -
+
+-------------------------------------------------------------
